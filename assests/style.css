@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#header {
+    height: 8rem;
+    
+}
+#ontop {
+    height: 1rem;
+    background-image: url(./img/shape_horizontal.svg);
+}
+#logoHeader {
+    height: 3rem;
+    margin: 8px 8px;
+    background-image: url(./img/Vietnamese-165px.jpg);
+    background-repeat: no-repeat;
+}
