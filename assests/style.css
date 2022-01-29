@@ -22,3 +22,22 @@
     margin: 2rem 2rem;
 }
 
+.beltTittle {
+    background-color: DodgerBlue;
+    color: black;
+}
+
+.green-ok {
+    background-color: MediumSeaGreen;
+    font-weight: 400;
+}
+
+.red-nok {
+    background-color: red;
+    font-weight: 400;
+}
+
+.first-col {
+    background-color: LightGray!important;
+    color: black;
+}
